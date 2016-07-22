@@ -1,11 +1,11 @@
 # yes
 yes
 
-## About
+## YES
 Yes.
 
-## Team
+## YES
 Yes, YES, YEEE!
 
-## Setup & Requirements
+## Yes & Yes?
 Just say yes
