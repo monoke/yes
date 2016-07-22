@@ -4,9 +4,4 @@ function justsayYES()
   justsayYES()
 end
 
-
-abstract yes
-
-type Yes <: yes
-   Yes::AbstractString
-end
+justsayYES()
